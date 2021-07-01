@@ -1,0 +1,30 @@
+.all{
+    width: 80vw;
+   flex-wrap: wrap;
+   margin-left: 50px;
+}
+.diets {
+    display: inline-flex;
+    margin: 20px;
+}
+.button{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: Ellipsis;
+    width: 130px;
+    height: 40px;
+    justify-content: center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 1rem;
+    padding: 0px;
+    border-radius: 8px;
+    border: 0px;
+    -webkit-box-shadow: 10px 9px 52px -15px rgba(0,0,0,0.44);
+-moz-box-shadow: 10px 9px 52px -15px rgba(0,0,0,0.44);
+box-shadow: 10px 9px 52px -15px rgba(0,0,0,0.44);
+}
+.button:hover{
+    transform: scale(1.2);
+    
+}
