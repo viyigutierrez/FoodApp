@@ -9,7 +9,8 @@ En esta aplicación puedes ver distintas recetas de comida junto con informació
   
   ![Captura de pantalla 2021-07-01 a la(s) 12 56 58 a  m](https://user-images.githubusercontent.com/75697707/124086069-52e7f100-da16-11eb-961c-ee5d063865d1.png) 
   
-  ![Captura de pantalla 2021-07-01 a la(s) 1 27 57 a  m](https://user-images.githubusercontent.com/75697707/124086464-b07c3d80-da16-11eb-9b76-670a2f94291e.png)
+  ![Captura de pantalla 2021-07-01 a la(s) 2 52 37 a  m](https://user-images.githubusercontent.com/75697707/124087296-7cede300-da17-11eb-9a6c-843e8aa9b8df.png)
+   ![Captura de pantalla 2021-07-01 a la(s) 1 27 57 a  m](https://user-images.githubusercontent.com/75697707/124086464-b07c3d80-da16-11eb-9b76-670a2f94291e.png)
 
 
 
