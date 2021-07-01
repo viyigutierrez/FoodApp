@@ -1,24 +1,14 @@
-# Dogs APP
+# Food APP
 
-En esta aplicación podrás ver distintas razas de perros junto con los detalles de las mismas utilizando la api externa [the dog api](https://thedogapi.com/) y a partir de ella poder, entre otras cosas:
+En esta aplicación puedes ver distintas recetas de comida junto con información relevante de las mismas, utilizando la api externa [spoonacular](https://spoonacular.com/food-api) y a partir de ella poder:
 
-  - Buscar razas de perros
+  - Buscar recetas
   - Filtrarlos / Ordenarlos
-  - Agregar nuevas razas
- 
-![Landing](https://user-images.githubusercontent.com/74875335/123455609-873b5780-d5a7-11eb-8a8e-9024a220d714.PNG)
+  - Crear nuevas recetas propias
+  
+  
+  ![Captura de pantalla 2021-07-01 a la(s) 12 56 58 a  m](https://user-images.githubusercontent.com/75697707/124086069-52e7f100-da16-11eb-961c-ee5d063865d1.png)  ![Uploading Captura de pantalla 2021-07-01 a la(s) 1.25.14 a. m..png…]().  
 
-## - Home
-
-![home_dogs](https://user-images.githubusercontent.com/74875335/123455724-a89c4380-d5a7-11eb-9777-94c502e60fc2.PNG)
-
-## - Detalle de raza
-
-![detalle_perrito](https://user-images.githubusercontent.com/74875335/123455803-c23d8b00-d5a7-11eb-8930-6e8ac4534a38.PNG)
-
-## - Crear una raza
-
-![create_dog](https://user-images.githubusercontent.com/74875335/123455879-d41f2e00-d5a7-11eb-940e-a3882ddc1f20.PNG)
 
 
 ## Comenzando 🚀
@@ -43,7 +33,7 @@ Adicionalmente será necesario que crees desde psql una base de datos llamada do
 
 1. Clona el repo
    ```sh
-   git clone https://github.com/JoanZorovich/Perritos.git
+   git clone https://github.com/viyigutierrez/FoodApp
    ```
 2. Instala los paquetes
    ```sh
@@ -69,5 +59,3 @@ Este proyecto fue creado con fines educativos, no tiene fines de lucro - sientet
 
 
 
----
-⌨️ con ❤️ por [Joan Zorovich](https://github.com/JoanZorovich) 😊
